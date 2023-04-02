@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(238, 138, 99);
+}
+h1,
+h2,
+h3,
+h4 {
+  padding: 0 20% 0 20%;
+  font-family: "Montserrat", sans-serif;
+}
+h1 {
+  color: rgb(239, 239, 238);
+  margin-left: 250px;
+  padding-bottom: 2.5%;
+}
+h2 {
+  color: rgb(231, 73, 10);
+  font-family: "Oswald", sans-serif;
+}
+h3 {
+  color: rgb(239, 239, 238);
+  font-size: medium;
+}
+h4 {
+  color: rgb(239, 239, 238);
+  margin-left: 80px;
+  font-size: larger;
+}
